@@ -1,0 +1,5 @@
+scapy
+scikit-learn
+flask
+flask-socketio
+joblib
